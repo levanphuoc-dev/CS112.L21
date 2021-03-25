@@ -35,7 +35,7 @@
 * **Tên chủ đề:** Giới thiệu phương pháp thiết kế thuật toán: Divide and Conquer
 
 ## Quá trình học
-  1. [Week 1](): Tảo biển + Trạm thu phí
+  ### 1. [Week 1](week_1): Tảo biển + Trạm thu phí
     + [BOT - Trạm thu phí](week_1/BOT)
     + [SEAWEED - Tảo biển](week_1/SEAWEED)
 
