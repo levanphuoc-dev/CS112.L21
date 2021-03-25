@@ -36,8 +36,8 @@
 
 ## Quá trình học
   ### 1. [Week 1](week_1): Tảo biển + Trạm thu phí
-    + [BOT - Trạm thu phí](week_1/BOT)
-    + [SEAWEED - Tảo biển](week_1/SEAWEED)
+  + [BOT - Trạm thu phí](week_1/BOT)
+  + [SEAWEED - Tảo biển](week_1/SEAWEED)
 
 
 <!-- Footer -->
