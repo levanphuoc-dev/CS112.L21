@@ -38,7 +38,9 @@
   ### 1. [Week 1](week_1): Tảo biển + Trạm thu phí
   + [BOT - Trạm thu phí](week_1/BOT)
   + [SEAWEED - Tảo biển](week_1/SEAWEED)
-
+   ### 2. [Week 2](week_2): H-index + MAXSTR
+  + [H-index](week_2/VV27_S-Index)
+  + [MAXSTR - KHOA SO](week_2/VU33_MAXSTR)
 
 <!-- Footer -->
 `Copyright © 2021`
