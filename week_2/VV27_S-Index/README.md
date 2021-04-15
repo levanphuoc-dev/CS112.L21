@@ -4,7 +4,7 @@
 ## 2. Pattern recognition (Nhận dạng mẫu):
 + Kỹ thuật áp dụng: Vét cạn (duyệt mảng).
 + Đặc điểm nhận dạng:
-  - Ví dụ cho mảng input theo đề bài là: '[8, 5, 3, 4, 10]'
+  - Ví dụ cho mảng input theo đề bài là: [8, 5, 3, 4, 10]
     + Với k = 1 có 5 phần tử >= 1 (Không thỏa)
     + Với k = 2 có 5 phần tử >= 2 (Không thỏa)
     + Với k = 3 có 5 phần tử >= 3 (Không thỏa)
