@@ -9,4 +9,4 @@
 1. [Bài toán](/NEWNUM/NEWNUM.docx)
 2. [Lời giải](/NEWNUM/README.md)
 3. [Source code](/NEWNUM/NEWNUM.py)
-4. [Jupiter notebook](/NEWNUM/Newnum.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/drive/1DcNLH39pbF3HRzWos6QvCcuA73sKQrCO)
+4. [Jupiter notebook](/NEWNUM/Newnum.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DcNLH39pbF3HRzWos6QvCcuA73sKQrCO)
