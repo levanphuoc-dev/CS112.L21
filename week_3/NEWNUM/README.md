@@ -21,3 +21,5 @@
 ## 4. Complexity (Độ phức tạp):
 + Ở trường hợp tốt nhất: độ phức tạp là O(1) ( khi duyệt phần tử đầu tiên thì gán luôn và kết thúc chương trình)
 + Ở trường hợp xấu nhất: độ phức tạp là O(n) ( khi phần tử bị thay là phẩn tử cuối cùng của s)
+## 4. Code minh họa:
+https://colab.research.google.com/drive/1DcNLH39pbF3HRzWos6QvCcuA73sKQrCO
