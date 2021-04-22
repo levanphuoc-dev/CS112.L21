@@ -41,6 +41,9 @@
    ### 2. [Week 2](week_2): H-index + MAXSTR
   + [H-index](week_2/VV27_S-Index)
   + [MAXSTR - KHOA SO](week_2/VU33_MAXSTR)
+  ### 3. [Week 3](week_3): Renewed + Newnum
+  + [RENEWED - ĐỔI MỚI](week_3/RENEWED)
+  + [NEWNUM - SỐ NGUYÊN MỚI](week_3/NEWNUM)
 
 <!-- Footer -->
 `Copyright © 2021`
