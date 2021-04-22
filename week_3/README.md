@@ -3,7 +3,7 @@
 1. [Bài toán] (./RENEWED/RENEWED.docx)
 2. [Lời giải] (./RENEWED/README.md)
 3. [Source code] (./RENEWED/RENEWED.py)
-4. [Jupiter notebook] (.RENEWED/Renewed.ipynb) - [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/levanphuoc-dev/CS112.L21/blob/main/week_3/RENEWED/Renewed.ipynb)
+4. [Jupiter notebook] (.RENEWED/Renewed.ipynb) - [![Open in colab] (https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/levanphuoc-dev/CS112.L21/blob/main/week_3/RENEWED/Renewed.ipynb)
 
 ## BÀI TOÁN 2 - NEWNUM
 1. [Bài toán] (./NEWNUM/NEWNUM.docx)
