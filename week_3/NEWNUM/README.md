@@ -22,4 +22,4 @@
 + Ở trường hợp tốt nhất: độ phức tạp là O(1) ( khi duyệt phần tử đầu tiên thì gán luôn và kết thúc chương trình)
 + Ở trường hợp xấu nhất: độ phức tạp là O(n) ( khi phần tử bị thay là phẩn tử cuối cùng của s)
 ## 4. Code minh họa:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DcNLH39pbF3HRzWos6QvCcuA73sKQrCO?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/levanphuoc-dev/CS112.L21/blob/main/week_3/NEWNUM/Newnum.ipynb#scrollTo=qb4iIpCScm9L)
