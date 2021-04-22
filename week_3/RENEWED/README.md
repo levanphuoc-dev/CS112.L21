@@ -14,4 +14,4 @@
 + In kết quả
 ## 4. Complexity(Độ phức tạp):
 + Mặc dù sử dụng vòng lặp while, nhưng số lần thực hiện phép toán rất ít ( nhỏ hơn 10), nên độ phức tạp của thuật toán này là O(1).
-## 5. Jupyter notebook: [RENEWED.ipynb](/Renewed.ipynb) or [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/levanphuoc-dev/CS112.L21/blob/main/week_3/RENEWED/Renewed.ipynb)
+## 5. Jupyter notebook: [Renewed.ipynb](./Renewed.ipynb) or [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/levanphuoc-dev/CS112.L21/blob/main/week_3/RENEWED/Renewed.ipynb)
