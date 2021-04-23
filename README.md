@@ -26,7 +26,7 @@
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Lê Văn Phước | 19522054 | Nhóm trưởng | 19522054@gm.uit.edu.vn | [levanphuoc-dev](https://github.com/levanphuoc-dev) | [vanphuoc](https://www.facebook.com/profile.php?id=100017255861343) |
-| 2 | Nguyễn Xuân Minh | 19521848 | Thành viên | 19521848@gm.uit.edu.vn | [xuanminh]() | [xuanminh](https://www.facebook.com/metthew1268) |
+| 2 | Nguyễn Xuân Minh | 19521848 | Thành viên | 19521848@gm.uit.edu.vn | [minz1337](https://github.com/minz1337) | [xuanminh](https://www.facebook.com/metthew1268) |
 | 3 | Nguyễn Đức Thắng | 19522206 | Thành viên | 19522206@gm.uit.edu.vn | [nguyenhuuthang]() | [ndthang2802](https://www.facebook.com/ndthang2802) |
 | 4 | Trầm Hữu Nguyên | 19521921 | Thành viên | 19521921@gm.uit.edu.vn | [tramhuunguyen]() | [huunguyen.tram](https://www.facebook.com/huunguyen.tram) |
 
