@@ -21,3 +21,4 @@
 + Độ phức tạp xấu nhất: khi a và b luôn là nguyên tố cùng nhau, với X là số lần lặp thì ta có biểu thức :
 (a + X ) / ( b + X ) = c/d <=> ad + dX = bc + cX <=> X = (bc - ad)/(d-c).
 -> độ phức tạp là O((bc - ad)/(d-c)).
+## 5. Jupyter notebook: [Renewed.ipynb](./Fraction.ipynb) or [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/levanphuoc-dev/CS112.L21/blob/main/week_4/VU20_FRACTION/Fraction.ipynb)
