@@ -32,4 +32,4 @@
 ## 4. Complexity(Độ phức tạp):
 + Độ phức tạp của bài toán khi giải với cách trên là O(nlogk) với k = 2*10^8
 
-## Jupyter notebook: [WALL.ipynd](./WALL.ipynb) or [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LHMlxMW7sX2m1AS7YhIdT0U7S-C9Gng-)
+## Jupyter notebook: [WALL.ipynd](./WALL.ipynb) or [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LHMlxMW7sX2m1AS7YhIdT0U7S-C9Gng-?usp=sharing)
