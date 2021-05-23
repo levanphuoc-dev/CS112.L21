@@ -34,7 +34,7 @@
 * **Số thứ tự chủ đề:** 4 
 * **Tên chủ đề:** Giới thiệu phương pháp thiết kế thuật toán: Divide and Conquer
 
-[Slide Thuyết trình](./Seminar/Slide_Divide_and_Conquer.pptx)
++ [Slide Thuyết trình](./Seminar/Slide_Divide_and_Conquer.pptx)
 
 ## Quá trình học
   ### 1. [Week 1](week_1): Tảo biển + Trạm thu phí
