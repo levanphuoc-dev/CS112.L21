@@ -33,7 +33,7 @@
 ## CHỦ ĐỀ BÁO CÁO
 * **Số thứ tự chủ đề:** 4 
 * **Tên chủ đề:** Giới thiệu phương pháp thiết kế thuật toán: Divide and Conquer
-
+[Slide](./Seminar/Slide_Divide_and_Conquer.pptx)
 ## Quá trình học
   ### 1. [Week 1](week_1): Tảo biển + Trạm thu phí
   + [BOT - Trạm thu phí](week_1/BOT)
