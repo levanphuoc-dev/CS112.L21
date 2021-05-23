@@ -44,7 +44,9 @@
   ### 3. [Week 3](week_3): Renewed + Newnum
   + [RENEWED - ĐỔI MỚI](week_3/RENEWED)
   + [NEWNUM - SỐ NGUYÊN MỚI](week_3/NEWNUM)
-
+  ### 4. [Week 4](week_4): Wall + Fraction
+  + [WALL - SỬA HÀNG RÀO](week_4/VQ21_Wall)
+  + [FRACTION - PHÂN SỐ](week_4/VU20_FRACTION)
 <!-- Footer -->
 `Copyright © 2021`
 <!-- Xin đừng copy :D. Please don't copy :D -->
