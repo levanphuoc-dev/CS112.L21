@@ -11,3 +11,11 @@
   - Theo giả thiết bài toán, chiều cao h giao động trong khoảng từ 0 đến trường hợp xấu nhất là 2*10**8
 
 ## 3. Algorithm designed (Thiết kế thuật toán):
++ Lấy giá trị ban đầu cho minHeight = 0 và maxHeight = 2*10^8.
++ Lặp với điều kiện maxHeight - minHeight > 1
+  - Gán avgHeight = minHeight + (maxHeight - minHeight) / 2
+  - Kiểm tra chiều cao h với:
+    + Gán j = 0
+    + Lặp mảng oldWalls chạy từ i = 0 đến n - 1
+      - Lặp với điều kiện j < m và oldWall[i] + leftoverWoods[j] < h
+      - Kiểm tra điều kiện oldWalls[i] < h và j == m thì trả về False
