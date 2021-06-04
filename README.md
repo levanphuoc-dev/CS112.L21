@@ -21,7 +21,7 @@
 * **Giảng viên:** **Ths. Nguyễn Thanh Sơn** - *sonnt@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
-* **Số thứ tự nhóm:** 4
+* **Số thứ tự nhóm:** 2
 
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
