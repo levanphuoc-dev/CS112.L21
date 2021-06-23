@@ -35,7 +35,7 @@
   + [TỔNG DÃY CON LỚN NHẤT](./Homework/TONG_DAY_CON_LON_NHAT/Review)
  
 ## THỐNG KÊ BUỔI HỌC
-| **Tên nhóm** | **Số lần** |
+| **Tên nhóm** | **Số lần phát biểu** |
 |:------------:|:----------:|
 | Nhóm 17      | 2         |
 | Nhóm 3       | 1         |
