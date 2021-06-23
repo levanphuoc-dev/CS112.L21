@@ -46,3 +46,10 @@
 | Nhóm 7       | 1         |
 | Nhóm 4       | 1         |
 
+## THỐNG KÊ CÁC NHÓM LÀM BÀI TẬP HACKERRANK
+
+| Tên bài tập  | Các nhóm tham gia | Các nhóm passed |
+|--------------|-------------------|-----------------|
+| Tổng dãy con gần nhất | N05, N04, N10, N11, N7  | N04 |
+| Hàng cây  | N05, N04, N10. N11, N14    | N05, N04, N10. N11, N14 |
+
