@@ -1,7 +1,6 @@
 def helper(arr): #conquer
     n = len(arr)
     ans = {0}
-    # sử dụng bitmask để tính sum cho từng substring
     for mask in range(1, 1 << n):
         ss = 0
         for i, val in enumerate(arr):
@@ -27,4 +26,22 @@ def minAbsDifference(nums, target):
         else:
             i1 += 1
     return ans
-  
+string = input()
+target = int(input())
+
+arr = []
+i = 0
+tem = ""
+while i < len(string):
+    if string[i] == '-':
+        tem += string[i]
+        i += 1
+    elif string[i].isdigit():
+        tem += string[i]
+        i += 1
+    else:
+        if tem != "":
+            arr.append(int(tem))
+        i += 1
+        tem = ""
+print(minAbsDifference(arr, target))
