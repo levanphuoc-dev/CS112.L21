@@ -216,6 +216,8 @@ Theo sự thống nhất của các thành viên thì:
 | N15 | 8 | 8 |
 | N14 | 8 | 8 |
 | N13 | 7 | 7 |
+| N16 | 8 | 9 |
+| N18 | 7 | 7 |
 
 ## ĐÁNH GIÁ VỀ CHỦ ĐỀ CỦA NHÓM
 ### Góp ý của giáo viên
