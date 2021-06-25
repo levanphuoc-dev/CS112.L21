@@ -1,4 +1,4 @@
-# TỔNG KẾT BUỔI SEMINAR: DIVIDE AND CONQUER
+# BÁO CÁO TỔNG KẾT BUỔI SEMINAR: DIVIDE AND CONQUER
 
 ## BẢNG MỤC LỤC
 + [Phân công công viêc](#phân-công-công-việc)
@@ -10,6 +10,31 @@
 + [Thống kê buổi học](#thống-kê-buổi-học)
 + [Đánh giá về chủ đề của nhóm](#đánh-giá-về-chủ-đề-của-nhóm)
 
+## MÔ TẢ MÔN HỌC
+1. Tên môn học: Phân tích và thiết kế thuật toán
+2. Mã môn học: CS112
+3. Mã lớp: CS112.L21
+4. Giảng viên: Thầy Nguyễn Thanh Sơn - sonnt@uit.edu.vn
+
+## THỜI GIAN, HÌNH THỨC, THÀNH PHẦN THAM DỰ
+
+1. Thời gian: 14h30p ngày 26/03/2021
+2. Hình thức: Trực tiếp trên lớp
+3. Thành phần tham dự:
+	- Giảng viên lớp CS112.L21: Thầy Nguyễn Thanh Sơn
+	- Sinh viên lớp CS112.L21
+4. Chủ trì buổi thuyết trình: Nhóm 2
+	- Lê Văn Phước - 19522054
+	- Nguyễn Xuân Minh - 19521848
+	- Nguyễn Đức Thắng - 19522206
+	- Trầm Hữu Nguyên - 19521921
+5. Thư ký:
+	Nhóm 2 thay đổi luân phiên nhau ghi chép thông tin buổi thuyết trình
+	
+## NỘI DUNG TRONG LÚC THUYẾT TRÌNH
+1. Số thứ tự chủ đề: 4
+2. Tên chủ đề thuyết trình: Giới thiệu phương pháp thiết kế thuật toán: Divide and Conquer
+3. Link GitHub: https://github.com/levanphuoc-dev/CS112.L21
 
 ## PHÂN CÔNG CÔNG VIỆC
 
