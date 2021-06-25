@@ -1,13 +1,22 @@
 # BÁO CÁO TỔNG KẾT BUỔI SEMINAR: DIVIDE AND CONQUER
 
 ## BẢNG MỤC LỤC
++ [Mô tả môn học](#mô-tả-môn-học)
++ [Thời gian, hình thức, thành phần tham dự](#thời-gian-hình-thức-thành-phần-tham-dự)
++ [Nội dung trong lúc thuyết trình](#nội-dung-trong-lúc-thuyết-trình)
 + [Phân công công viêc](#phân-công-công-việc)
+	- [I. Phần báo cáo](#i-phần-báo-cáo)
+	- [II. Phần bài tấp](#ii-phần-bài-tập)
 + [Tổng kết đánh giá từng thành viên](#tổng-kết-đánh-giá-từng-thành-viên)
+	- [1. Tự đánh giá](#1-tự-đánh-giá)
+	- [2. Nhóm biểu quyết cho đánh giá](#2-nhóm-biểu-quyết-cho-đánh-giá)
 + [Slide thuyết trình](#slide-thuyết-trình)
 + [Câu hỏi và bài tập](#câu-hỏi-và-bài-tập)
 + [Đáp án và bộ test](#đáp-án-và-bộ-test)
 + [Sửa bài tập](#sửa-bài-tập)
 + [Thống kê buổi học](#thống-kê-buổi-học)
++ [Thống kê các nhóm làm bài tập HACKERRANK](#thống-kê-các-nhóm-làm-bài-tập-hackerrank)
+	-  [Thống kê điểm các nhóm tham gia chủ đề Divide and Conquer](#thống-kê-điểm-các-nhóm-tham-gia-chủ-đề-divide-and-conquer)
 + [Đánh giá về chủ đề của nhóm](#đánh-giá-về-chủ-đề-của-nhóm)
 
 ## MÔ TẢ MÔN HỌC
