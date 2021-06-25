@@ -196,8 +196,8 @@ Theo sự thống nhất của các thành viên thì:
 
 | Tên bài tập  | Các nhóm tham gia | Các nhóm passed |
 |--------------|-------------------|-----------------|
-| Tổng dãy con gần nhất | N05, N04, N10, N11, N7, N12, N15, N03, N14, N17, N09, N06, N13 | N1 N12, N04,  N15, N03, N14, N17 |
-| Hàng cây  | N05, N04, N10. N11, N14, N09, N06, N15, N13, N03, N17, N7   |N05, N04, N10. N11, N14, N09, N06, N15, N13, N03, N17, N7 |
+| Tổng dãy con gần nhất | N05, N04, N10, N11, N7, N12, N15, N03, N14, N17, N09, N06, N13, N8, N18, N16 | N1 N12, N04,  N15, N03, N14, N17, N16, N8 |
+| Hàng cây  | N05, N04, N10, N11, N14, N09, N06, N15, N13, N03, N17, N7, N8, N16, N18, N12   |N05, N04, N10. N11, N14, N09, N06, N15, N13, N03, N17, N7, N16, N8 |
 
 ### Thống kê điểm các nhóm tham gia chủ đề Divide and Conquer
 
@@ -212,12 +212,13 @@ Theo sự thống nhất của các thành viên thì:
 | N09 | 7 | 8 |
 | N07 | 8 | 9 |
 | N10 | 8 | 8 |
-| N12 | 7 | 7 |
+| N12 | 8 | 8 |
 | N15 | 8 | 8 |
 | N14 | 8 | 8 |
 | N13 | 7 | 7 |
 | N16 | 8 | 9 |
 | N18 | 7 | 7 |
+| N8  | 8 | 8 |
 
 ## ĐÁNH GIÁ VỀ CHỦ ĐỀ CỦA NHÓM
 ### Góp ý của giáo viên
