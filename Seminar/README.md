@@ -88,14 +88,18 @@ a. Lê Văn Phước, Nguyễn Xuân Minh
   - Tổng kết, bổ sung slide thuyết trình, upload tài liệu lên Github
   - Tổng hợp, đánh giá bài tập đã cho về nhà.
 
+==> Tiến độ công việc đảm bảo, mọi người tích cực làm việc theo lịch mà nhóm trưởng đề ra.
+
 ### II. Phần bài tập
 **1. Bài tập thực hành Wecode**
   - Làm bài tập hàng tuần chủ yếu là 3 bạn Nguyễn Xuân Minh, Lê Văn Phước, Nguyễn Đức Thắng cùng đưa ra ý kiến và giải bài tập.
   - Phần báo cáo ipynd chủ yểu được làm bởi Lê Văn Phước và Nguyễn Xuân Minh.
 
+==> Tiến độ công việc tốt, ổn định qua các tuần, nhưng vẫn còn 1 vài thành viên còn lơ là quên lịch nộp bài tập hoặc không làm bài tập.
+
 **2. Bài tập về nhà của các nhóm**
   - Chia luân phiên các bạn trong nhóm làm hàng tuần.
-
+ 
 ## TỔNG KẾT ĐÁNH GIÁ TỪNG THÀNH VIÊN
   Căn cứ vào cuộc họp Tổng kết môn học:
 ### 1. Tự Đánh Giá
