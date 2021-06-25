@@ -49,6 +49,8 @@
   ### 4. [Week 4](week_4): Wall + Fraction
   + [WALL - SỬA HÀNG RÀO](week_4/VQ21_Wall)
   + [FRACTION - PHÂN SỐ](week_4/VU20_FRACTION)
+
+## [TỔNG KẾT MÔN HỌC](https://github.com/levanphuoc-dev/CS112.L21/blob/main/SummaryReport/README.md)
 <!-- Footer -->
 `Copyright © 2021`
 <!-- Xin đừng copy :D. Please don't copy :D -->
